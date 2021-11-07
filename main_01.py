@@ -36,6 +36,7 @@ def main():
         f'{name[8]}': f'{urls[8]}',
         f'{name[9]}': f'{urls[9]}',
     } 
+
 def returns_data() : 
     return data
 
